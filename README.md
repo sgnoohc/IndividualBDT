@@ -1,5 +1,7 @@
 # Investigate whether individual BDT matters
 
+## The idea
+
 [6/28/17, 2:24:31 PM] Tae Min Hong Tae Min Hong: i wanna know in a real life scenario with some syst and mc stat, what to do
 [6/28/17, 2:24:35 PM] Tae Min Hong Tae Min Hong: and a table of what to do
 [6/28/17, 2:30:22 PM] Philip Chang: Hm idk where do we start?
@@ -18,3 +20,7 @@
 [6/28/17, 2:32:18 PM] Tae Min Hong Tae Min Hong: btagging a mess like that too
 [6/28/17, 2:32:47 PM] Philip Chang: which toy example do we start
 [6/28/17, 2:32:59 PM] Tae Min Hong Tae Min Hong: VBF WW vs. ttbar, WW
+
+## Generating VBF/ttbar/WW+2j events
+
+See the instruction readme [here](RunningMG5.md)
