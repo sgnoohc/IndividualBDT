@@ -15,6 +15,7 @@ Run to generate codes to generate events for the following processes.
     ./MG5_aMC_v2_5_5/bin/mg5_aMC mg5cards/proc_card_mg5__ww2j.dat
 
 Go to each code and generate 10000 events.
+
 When prompted for options, press 0 enter, 0 enter.
 
     cd pp_hjj_jjlpvllmvlx
@@ -32,4 +33,6 @@ When prompted for options, press 0 enter, 0 enter.
     # 0 enter, 0 enter.
     cd ../ # go back to parent directory
 
-Done!
+The outputted 10k events resides in ```Events/run_01/``` directory of each process directory.
+
+The ```unweighted_events.lhe.gz``` is the output 10k events file.
