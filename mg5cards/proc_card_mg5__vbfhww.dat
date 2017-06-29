@@ -34,5 +34,5 @@ define l+ = e+ mu+
 define l- = e- mu-
 define vl = ve vm vt
 define vl~ = ve~ vm~ vt~
-generate p p > j j h, (h > w+ w-, w+ > l+ vl, w- > l- vl~) $ w+ w- z a
+generate p p > j j h, (h > w+ w-, w+ > l+ vl, w- > l- vl~)
 output madevent pp_hjj_jjlpvllmvlx
